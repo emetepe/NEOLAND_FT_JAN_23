@@ -1,0 +1,15 @@
+.card {
+  background-color: lightsalmon;
+}
+
+img {
+  width: 150px;
+  object-fit: cover;
+}
+
+div {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0.5rem;
+  background-color: blanchedalmond;
+}
